@@ -50,8 +50,8 @@ waste-detection-app/
 │   └── confusion_matrix.png # Confusion matrix
 ├── sample_images/           # Test images
 ├── requirements.txt
+├── waste_detection.py       #main file
 ├── README.md
-└── .gitignore
 ```
 
 ## 🚀 Installation
